@@ -1,1 +1,3 @@
 Los enlaces de YouTube de los elevator pitches de los  integrantes.
+**Propuesta No.03 - Aimar Barrios "Expediente Digital"**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBP-WNgCfjA?si=jT8DyuDg8pxNXIDC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
