@@ -1,1 +1,1 @@
-
+En el texto explicativo, el equipo debe narrar el contexto del conflicto discutido y enumerar detalladamente al menos tres acuerdos concretos a los que llegaron. La clave de esta sección es redactar los trade-offs (intercambios o sacrificios). Deben explicar qué se tuvo que ceder para lograr el acuerdo; por ejemplo, explicar si decidieron sacrificar el tiempo de entrega para mantener una arquitectura de alta calidad, o si redujeron el alcance del sistema para que fuera viable económicamente para el negocio.
