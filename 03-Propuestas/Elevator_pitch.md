@@ -1,4 +1,7 @@
-Los enlaces de YouTube de los elevator pitch vidoes de los  integrantes.
+Los enlaces de YouTube de los elevator pitch de los integrantes.  
+
+
+
 ## Propuesta No.02 - Naomi Axpuac
 
 <iframe
@@ -31,3 +34,9 @@ Los enlaces de YouTube de los elevator pitch vidoes de los  integrantes.
 ></iframe>
 
 **Descripción:** Este elevator pitch dirigido a la dueña Alejandra de la librería "Toothless", presentando una solución a los posible problemas que pueden haber al generarse filas largas cuando hay muchos clientes y que soluciones puede realizar usando la tecnología sin necesidad de tener un sistema complejo para organizar sus compras y ventas en su librería, usando aplicaciones basicas como lo son Whatsapp y Calendar.
+
+## Propuesta No.05 - Carlos Hidalgo   
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ntNc6KdX6So?si=DJL2qGliMf_4yFnn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+
+**Descripción:** Este elevator pitch es dirigido a la dueña Alejandra de la librería "Toothless", recomendando algunas soluciones que pueden ayudarle a largo plazo en su negocio respecto a los precios de los útiles escolares utilizando una aplicación que tiene un registro y se actualiza en todo el sistema al momento de modificar y teniendo un apartado donde se pueda visualizar, que es lo que más vende y tener una mayor variedad respecto a los datos que nos de ese registro de las ventas. 
