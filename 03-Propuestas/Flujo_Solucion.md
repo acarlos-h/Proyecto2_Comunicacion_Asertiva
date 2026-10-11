@@ -1,1 +1,1 @@
-
+El acuerdo de la junta en un modelo visual. El texto debe introducir y describir un diagrama de flujo estructurado que muestre el funcionamiento exacto de la solución tecnológica final. Deben explicar explícitamente el entorno de la solución (si acordaron hacer una página web, un sistema de escritorio local o una aplicación). La explicación debe guiar al lector paso a paso sobre cómo interactúa el usuario con el sistema, complementando la imagen del diagrama, la cual obligatoriamente debe llevar una descripción textual para ser válida.
