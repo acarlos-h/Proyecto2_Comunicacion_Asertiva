@@ -8,9 +8,6 @@ Agreguen los enlaces a los audios de las entrevistas y las fotografías del equi
 
 ## Grupo 2 - 2 Integrantes  Hassan y Carlos  
 
-<audio controls>
-  <source src="05-10-2026%2011.45.m4a">
-  Tu navegador no soporta el elemento de audio.
-</audio>
+**Escuchar Entrevista 2:** [▶ Reproducir / Descargar Audio 2](05-10-2026%2011.45.m4a)
 
 ![Fotografía del segundo negocio](20261005_115130.jpg)
