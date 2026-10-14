@@ -1,1 +1,5 @@
-Se deberán listar los requisitos identificados a partir de la información recolectada. Cada requisito debe presentarse de forma clara, utilizando un identificador único, por ejemplo RQ-01, RQ-02, acompañado de una breve descripción en lenguaje sencillo.
+#Requisitos
+
+
+Requisitos obtenidos de la entrevista del taller mecánico de Rony Payes.
+RQ-01 Don Rony va a recoger el mismo los repuestos para verificar su calidad.
