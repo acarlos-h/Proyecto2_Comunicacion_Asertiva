@@ -7,3 +7,5 @@ RQ-01 Don Rony va a recoger el mismo los repuestos para verificar su calidad.
 
 RQ-02 Los autos con caja automática son más difíciles de reparar.
 
+RQ-03 La reparación de los automóviles es exclusivamente en el taller.
+
