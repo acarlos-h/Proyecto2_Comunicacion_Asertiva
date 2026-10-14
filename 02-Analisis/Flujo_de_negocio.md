@@ -5,6 +5,7 @@ El negocio Autosemec del señor Rony Payes, es un taller mecanico con bastante m
 
 # Flujo de Librería Toothless
 El negocio de la dueña Alejandra es una librería pequeña que cuenta como servicio la venta de útiles escolares. En el diagrama de flujo se representa como se maneja el negocio con los datos obtenidos de la entrevista. (Flujo realizado con la herramienta Excalidraw.)
-<img width="724" height="2801" alt="Flujo de la librería" src="https://github.com/user-attachments/assets/9f0e82fd-9fe5-4334-a24c-e03bd53c90d1" />
+<img width="724" height="2801" alt="Flujo libreria actualizado" src="https://github.com/user-attachments/assets/996d1eda-82f6-4470-b8fb-fe05b446d895" />
+
 
 
