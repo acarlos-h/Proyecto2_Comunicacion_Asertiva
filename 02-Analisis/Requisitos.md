@@ -9,3 +9,11 @@ RQ-02 Los autos con caja automática son más difíciles de reparar.
 
 RQ-03 La reparación de los automóviles es exclusivamente en el taller.
 
+RQ-04 No hay lugar adecuado para la espera del cliente dentro del taller, deberá esperar en otro lado fuera del taller.
+
+RQ-05 Los registros se llevan en un teléfono inteligente.
+
+RQ-06 Después de una reparación el automóvil conserva un sticker del servicio que se le dió en el taller.
+
+RQ-07 El cliente es el que manda al momento de ajustes de presupuesto según sea lo que su automóvil necesita.
+
