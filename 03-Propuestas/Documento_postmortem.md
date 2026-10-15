@@ -46,7 +46,9 @@ El equipo también acordó que el hijo de don Rony usaría el sistema, y Naomi p
 - Miércoles 1:30 PM – Junta directiva: calendario de entregas: Naomi definió el plan: Semana 2, expediente digital y lista de repuestos; Semana 4, presupuesto con cobro y botón de mensaje; Semana 6, agenda simple con control de espacio, ajustes y capacitación. Aimar expresó su miedo de que don Rony no supiera usar el sistema. Hassan incluyó una sesión de capacitación en el taller y un mes de soporte por mensaje, dentro del presupuesto de Q5,800.
 
 - Miércoles 3:00 PM – Junta directiva: acuerdos firmados y cierre: Se firmaron seis acuerdos que cubrían alcance, entregas bisemanales, control de cambios, protección de datos, capacitación con soporte por un mes, y señales de alerta. Cada integrante asumió una responsabilidad concreta y firmó el acta. El proyecto quedó Q200 por debajo del tope de don Rony, dejando un margen para imprevistos.
-![Linea del Tiempo](linetime.jpg)
+
+<img width="1280" height="905" alt="LineaTime" src="https://github.com/user-attachments/assets/cc081746-3d45-4420-92b4-abc0705aafa6" />
+
 ---
 
 ## 3. Impacto
